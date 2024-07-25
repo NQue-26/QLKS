@@ -10,5 +10,7 @@ package DAO;
  */
 public class textfile {
     int a;
+    
+    
     int c;
 }
